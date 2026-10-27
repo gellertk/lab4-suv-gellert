@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local IDE user settings
+.idea/workspace.xml
+.idea/tasks.xml
+.vscode/*.log
